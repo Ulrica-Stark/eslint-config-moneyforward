@@ -52,6 +52,7 @@ Using prettier, extend `moneyforward/prettier`
 }
 ```
 
+
 ## Versioning
 
 - Increment major version: Changed **error** rules.
