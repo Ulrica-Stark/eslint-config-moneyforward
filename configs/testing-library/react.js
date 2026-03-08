@@ -12,6 +12,7 @@ module.exports = {
         'plugin:jest-dom/recommended',
       ],
       plugins: ['testing-library', 'jest-dom'],
+      
     },
   ],
 };
