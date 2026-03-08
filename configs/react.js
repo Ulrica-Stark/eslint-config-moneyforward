@@ -21,7 +21,7 @@ module.exports = {
     react: {
       // https://github.com/yannickcr/eslint-plugin-react/issues/1955
       version: 'detect',
-      
+      // h
     },
   },
 };
