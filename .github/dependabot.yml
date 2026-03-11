@@ -8,3 +8,4 @@ updates:
       timezone: Asia/Tokyo
     versioning-strategy: increase
     rebase-strategy: disabled
+//version
