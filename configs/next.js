@@ -5,4 +5,5 @@ module.exports = {
     'plugin:@next/next/recommended',
   ],
   plugins: ['@next/next'],
+  
 };
